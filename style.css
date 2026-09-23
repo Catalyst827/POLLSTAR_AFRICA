@@ -163,7 +163,7 @@ header {
     color: goldenrod;
     font-weight: 550;
     text-transform: uppercase;
-    margin-left: 12px;
+    margin-left: 22px;
 }
 
 .spantitle {
@@ -275,6 +275,7 @@ header {
     color: #1a2e38;
     font-family: serif;
     text-transform: capitalize;
+    margin-left: 22px;
 }
 
 .about-logo {
