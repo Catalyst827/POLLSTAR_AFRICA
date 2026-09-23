@@ -163,6 +163,7 @@ header {
     color: goldenrod;
     font-weight: 550;
     text-transform: uppercase;
+    margin-left: 12px;
 }
 
 .spantitle {
