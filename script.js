@@ -15,7 +15,7 @@ let observer = new IntersectionObserver((entries) => {
 
             counter.textContent = count;
 
-            if (count >= target) {
+            if (count === target) {
                 clearInterval(timer);
                 observer.unobserve(counter);
             }
