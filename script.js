@@ -1,4 +1,4 @@
-let counter = document.querySelector('.count');
+/*let counter = document.querySelector('.count');
 
 let mytarget = counter.getAttribute('data');
 
@@ -24,4 +24,4 @@ let observer = new IntersectionObserver((entries) => {
     }
 
 }, { threshold: 0.5 });
-observer.observe(counter);
+observer.observe(counter);*/
